@@ -34,4 +34,4 @@ pip install opencv-python scikit-learn matplotlib numpy
 ## 📸 Output Preview
 
 ![op1](op-type1.png)
-![op2](op-type1.png)
+![op2](op-type2.png)
