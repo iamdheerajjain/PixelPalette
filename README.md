@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Output Preview
-
-| ![op1](op-type1.png) | ![op2](op-type1.png) |
-
----
-
 ## 🧠 What is K-Means Clustering?
 
 K-Means is an **unsupervised machine learning algorithm** used to partition data into `k` clusters. In this project, each pixel in the image is treated as a data point in RGB space. The algorithm finds `k` dominant colors that best represent the pixel distribution.
@@ -35,3 +29,9 @@ Make sure you're using **Python 3.8+**
 
 pip install opencv-python scikit-learn matplotlib numpy
 
+---
+
+## 📸 Output Preview
+
+![op1](op-type1.png)
+![op2](op-type1.png)
